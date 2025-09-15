@@ -28,33 +28,42 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A House of Gentlefolk</dc:title>
 		<meta property="file-as" refines="#title">House of Gentlefolk, A</meta>
+		<meta property="dcterms:alternative" refines="#title">A Nest of Gentlefolk</meta>
+		<meta property="dcterms:alternative" refines="#title">A Nest of Hereditary Legislators</meta>
+		<meta property="dcterms:alternative" refines="#title">A Nest of the Gentry</meta>
+		<meta property="dcterms:alternative" refines="#title">A Nobleman's Nest</meta>
+		<meta property="dcterms:alternative" refines="#title">Home of the Gentry</meta>
+		<meta property="dcterms:alternative" refines="#title">Liza, or A Nest of Nobles</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A Russian nobleman leaves Paris when his marriage fails; he returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Fedor Ivanitch Lavretsky, a Russian nobleman, abandons his wife in Paris after her infidelity. He returns to his family estate in Russia intending to “cultivate the soil” and falls in love with Lisa, the devout daughter of his cousin, who encourages Lavretsky to reconcile with his wife. Through Lavretsky, &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Turgenev&lt;/a&gt; reflects upon his own impending middle-age and the ephemeral natures of love and happiness.&lt;/p&gt;
+			&lt;p&gt;Ivan Turgenev’s second novel, &lt;i&gt;A House of Gentlefolk&lt;/i&gt; was originally published in &lt;i&gt;Sovremennik&lt;/i&gt; in 1859—following the Crimean War and preceding the emancipation of the serfs in 1861. Translated into English under many different names (&lt;i&gt;Liza, or A Nest of Nobles&lt;/i&gt;, &lt;i&gt;A Nest of Hereditary Legislators&lt;/i&gt;, and &lt;i&gt;A Home of the Gentry&lt;/i&gt;, among others), this edition is the 1917 translation by Constance Garnett.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5721</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/harvardclassicss0000unse_m9g2</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Home_of_the_Gentry</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-turgenev_a-house-of-gentlefolk_constance-garnett</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:creator id="author">Ivan Turgenev</dc:creator>
 		<meta property="file-as" refines="#author">Turgenev, Ivan</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ivan Sergeyevich Turgenev</meta>
+		<meta property="alternate-script" refines="#author">Иван Сергеевич Тургенев</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ivan_Turgenev</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79144981</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50015174</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Émile Friant</dc:contributor>
 		<meta property="file-as" refines="#artist">Friant, Émile</meta>
@@ -62,15 +71,15 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006085570</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">L. Michelle Baker</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Baker, L. Michelle</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Stephan Bots</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bots, Stephan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://stephanbots.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
