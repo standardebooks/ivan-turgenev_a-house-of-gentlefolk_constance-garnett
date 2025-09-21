@@ -38,6 +38,8 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A Russian nobleman leaves Paris when his marriage fails; he returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Fedor Ivanitch Lavretsky, a Russian nobleman, abandons his wife in Paris after her infidelity. He returns to his family estate in Russia intending to “cultivate the soil” and falls in love with Lisa, the devout daughter of his cousin, who encourages Lavretsky to reconcile with his wife. Through Lavretsky, &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Turgenev&lt;/a&gt; reflects upon his own impending middle-age and the ephemeral natures of love and happiness.&lt;/p&gt;
@@ -50,8 +52,6 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Home_of_the_Gentry</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-turgenev_a-house-of-gentlefolk_constance-garnett</meta>
-		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:creator id="author">Ivan Turgenev</dc:creator>
 		<meta property="file-as" refines="#author">Turgenev, Ivan</meta>
 		<meta property="se:name.person.full-name" refines="#author">Ivan Sergeyevich Turgenev</meta>
