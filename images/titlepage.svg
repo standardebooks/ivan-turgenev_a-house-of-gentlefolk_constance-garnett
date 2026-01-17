@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">A HOUSE</text>
-	<text class="title" x="700" y="230">OF GENTLEFOLK</text>
+	<text class="title" x="700" y="130">A HOUSE OF</text>
+	<text class="title" x="700" y="230">GENTLEFOLK</text>
 	<text class="author" x="700" y="390">IVAN TURGENEV</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">CONSTANCE GARNETT</text>
