@@ -42,7 +42,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>After his marriage fails, a Russian nobleman returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.</dc:abstract>
+		<meta property="schema:abstract">After his marriage fails, a Russian nobleman returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.</meta>
 		<dc:description>
 			&lt;p&gt;Fedor Ivanitch Lavretsky, a Russian nobleman, abandons his wife in Paris after her infidelity. He returns to his family estate in Russia intending to “cultivate the soil” and falls in love with Lisa, the devout daughter of his cousin, who encourages Lavretsky to reconcile with his wife. Through Lavretsky, &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Turgenev&lt;/a&gt; reflects upon his own impending middle age, and the ephemeral natures of love and happiness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;A House of Gentlefolk&lt;/i&gt;, Turgenev’s second novel, was originally published in &lt;i&gt;Sovremennik&lt;/i&gt; in 1859, following the Crimean War but preceding the emancipation of the serfs. It has been translated into English under many different names, including &lt;i&gt;Liza, or A Nest of Nobles&lt;/i&gt;, &lt;i&gt;A Nest of Hereditary Legislators&lt;/i&gt;, and &lt;i&gt;A Home of the Gentry&lt;/i&gt;.&lt;/p&gt;
