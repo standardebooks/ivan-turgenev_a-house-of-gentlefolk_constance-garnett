@@ -36,7 +36,7 @@
 		<meta property="dcterms:alternative" refines="#title">A Nobleman’s Nest</meta>
 		<meta property="dcterms:alternative" refines="#title">Home of the Gentry</meta>
 		<meta property="dcterms:alternative" refines="#title">Liza, or A Nest of Nobles</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Russia--Social life and customs--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="schema:genre">Fiction</meta>
